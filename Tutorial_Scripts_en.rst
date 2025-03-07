@@ -452,7 +452,3 @@ Filter layer (selected features): polygon layer that filters the input
 features that intersect the features selected in the filter layer.
 
 Filter Primary Key: primary key field for filter layer.
-
-.. |Figura 1: Script to find the overlap between two layers| image:: Pictures/10000001000003C60000023F4D1DCECB.png
-   :width: 17cm
-   :height: 10.119cm

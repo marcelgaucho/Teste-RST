@@ -76,7 +76,7 @@ Primary Key.
 
 .. figure:: fig0.PNG
    :alt: Figura 1: Script para achar sobreposição entre duas camadas
-   :width: 400
+   :width: 800
 
    Figura 1: Script para achar sobreposição entre duas camadas
 
